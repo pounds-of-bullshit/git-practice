@@ -1,3 +1,1 @@
-# comment
-
 print("Hello, Git!")
